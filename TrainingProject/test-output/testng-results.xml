@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-08T15:06:19 IST" name="Default suite" finished-at="2022-10-08T15:06:49 IST" duration-ms="30234">
+    <groups>
+    </groups>
+    <test started-at="2022-10-08T15:06:19 IST" name="Default test" finished-at="2022-10-08T15:06:49 IST" duration-ms="30234">
+      <class name="TestScenarios.TestMethods_GoogleSearch">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@1ffaf86]" started-at="2022-10-08T15:06:19 IST" name="beforetest" finished-at="2022-10-08T15:06:28 IST" duration-ms="8810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="searchOperation()[pri:1, instance:TestScenarios.TestMethods_GoogleSearch@1ffaf86]" started-at="2022-10-08T15:06:28 IST" name="searchOperation" finished-at="2022-10-08T15:06:38 IST" duration-ms="10288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperation -->
+        <test-method signature="clickStackoverFlow()[pri:2, instance:TestScenarios.TestMethods_GoogleSearch@1ffaf86]" started-at="2022-10-08T15:06:38 IST" name="clickStackoverFlow" finished-at="2022-10-08T15:06:41 IST" duration-ms="2376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickStackoverFlow -->
+        <test-method signature="verifyLogin()[pri:3, instance:TestScenarios.TestMethods_GoogleSearch@1ffaf86]" started-at="2022-10-08T15:06:41 IST" name="verifyLogin" finished-at="2022-10-08T15:06:49 IST" duration-ms="8723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- TestScenarios.TestMethods_GoogleSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
